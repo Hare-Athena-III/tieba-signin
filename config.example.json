@@ -1,0 +1,5 @@
+{
+  "_说明": "复制本文件为 config.json 后填入自己的 cookie。config.json 已被 .gitignore 忽略，不要提交到仓库。",
+  "_cookie获取": "浏览器登录 tieba.baidu.com -> F12 -> Application/存储 -> Cookies -> https://tieba.baidu.com -> 复制 BDUSS 的值；STOKEN 可选但建议一起带上。",
+  "cookie": "BDUSS=在这里填你的BDUSS; STOKEN=在这里填你的STOKEN"
+}

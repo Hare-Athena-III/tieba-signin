@@ -1,0 +1,9 @@
+﻿config.json
+cookies.txt
+sign.log
+sign.log.*
+result.json
+task-config.json
+python-path.txt
+*.tmp
+__pycache__/
